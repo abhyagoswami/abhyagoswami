@@ -1,5 +1,5 @@
 Hi, I'm Abhya Goswami! 👋
-- A 2nd year computer science student with a passion for innovative software development and problem solving, particularly algorithm efficiency and data structures.
+- A 3rd year computer science student with a passion for innovative software development and problem solving, particularly algorithm efficiency and data structures.
 - Experience with Python, Java, SQL and some C.
 - Interested in back-end development, and eager to learn more in professional contexts.
 
